@@ -1,5 +1,5 @@
 👩‍💻 Author
-Built with ❤️ by [Your Name Here]
+Built with ❤️ by [Priyasha Sabbavarapu]
 
 🏁 Bonus Ideas
 If you want to expand the app in future:
