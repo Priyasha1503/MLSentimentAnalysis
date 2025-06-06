@@ -28,3 +28,23 @@ Input Text	Sentiment
 "It’s okay, not great but not terrible."	Neutral 😐
 The model works by assigning a compound score between -1 (most negative) and +1 (most positive), with thresholding to categorize sentiment.
 
+
+**OUTPUT SCREEN**
+
+![image](https://github.com/user-attachments/assets/147190a3-fb88-46e1-95b4-573c526e7871)
+
+![image](https://github.com/user-attachments/assets/eab598db-7086-482a-80d0-da2fb1743608)
+
+
+
+
+**Contact Information**
+Github - https://github.com/Priyasha1503
+Linekdin - https://www.linkedin.com/in/priyasha-sabbavarapu-bb9567298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+🙋‍♀️ About the Author
+
+Created by **Priyasha Sabbavarapu** as part of **MICRO IT ONLINE INTERNSHIP**. This project demonstrates skills in Python, building interactive web apps, and handling user inputs and data persistence.
+
+
+
